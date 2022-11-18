@@ -16,7 +16,7 @@
 - Student in Department of Computer Engineering at Çankaya University
 - Studying on Competitive Programming
 - Keen on about Machine&Deep Learning Algorithm's and AI
-- Currently Teaching Assistan at Çankaya University
+- Currently Teaching Assistant at Çankaya University
 
 <br><br>
 
